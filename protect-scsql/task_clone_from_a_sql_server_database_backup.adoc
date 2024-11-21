@@ -57,7 +57,7 @@ NOTE: Das Klonen eines Backups einer Instanz wird nicht unterstützt.
 
 . Wählen Sie die Datenbank oder Ressourcengruppe aus.
 . Wählen Sie auf der Ansicht „Kopien verwalten“ das Backup entweder aus dem primären oder sekundären (gespiegelten oder ausgelagerten) Storage-System aus.
-. Wählen Sie das Backup aus, und klicken Sie dann auf *image:../media/clone_icon.gif[""]*.
+. Wählen Sie die Sicherung aus, und klicken Sie dann auf * *image:../media/clone_icon.gif["Klon-Symbol"].
 . Führen Sie auf der Seite „Klonoptionen“ die folgenden Aktionen durch:
 +
 |===

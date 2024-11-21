@@ -10,6 +10,7 @@ summary: Eine Ressourcengruppe ist der Container, dem Sie Ressourcen hinzufügen
 :imagesdir: ../media/
 
 
+[role="lead"]
 Eine Ressourcengruppe ist der Container, dem Sie Ressourcen hinzufügen müssen, die Sie sichern und schützen möchten. Damit können Sie alle Daten, die einer bestimmten Applikation zugeordnet sind, gleichzeitig sichern und für alle Datensicherungsjobs erforderlich sind. Sie müssen der Ressourcengruppe auch eine oder mehrere Richtlinien zuordnen, um den Typ des Datensicherungsauftrags zu definieren, den Sie ausführen möchten.
 
 .Schritte

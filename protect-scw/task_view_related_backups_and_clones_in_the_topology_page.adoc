@@ -67,7 +67,7 @@ Wenn Sie benutzerdefinierte SnapCenter-Plug-ins verwenden, können Sie die Backu
 ** Wenn Sie SnapCenter Plug-ins Package für Linux verwenden und das Backup mit Oracle Recovery Manager (RMAN) katalogisiert haben, können Sie diese katalogisierten Backups nicht umbenennen.
 
 
-. Wenn Sie einen Klon löschen möchten, wählen Sie den Klon aus der Tabelle aus, und klicken Sie auf image:../media/delete_icon.gif[""] Um den Klon zu löschen.
+. Wenn Sie einen Klon löschen möchten, wählen Sie den Klon in der Tabelle aus und klicken Sie auf image:../media/delete_icon.gif["Symbol Löschen"] , um ihn zu löschen.
 
 
 *Beispiel für Backups und Klone auf dem primären Speicher*

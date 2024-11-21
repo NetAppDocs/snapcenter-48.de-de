@@ -75,12 +75,12 @@ Um ein einzelnes Dateisystem hinzuzufügen, deaktivieren Sie die Option *Autosel
 Sie können eine beliebige vorhandene Richtlinie auswählen und auf *Details* klicken, um zu bestimmen, ob Sie diese Richtlinie verwenden können.
 
 +
-Wenn keine vorhandene Richtlinie Ihren Anforderungen entspricht, können Sie eine neue Richtlinie erstellen, indem Sie auf * klickenimage:../media/add_policy_from_resourcegroup.gif[""]* Um den Policy Wizard zu starten.
+Wenn keine vorhandene Richtlinie Ihren Anforderungen entspricht, können Sie eine neue Richtlinie erstellen, indem Sie auf * * klickenimage:../media/add_policy_from_resourcegroup.gif["Richtlinie aus Ressourcengruppe hinzufügen"], um den Richtlinienassistenten zu starten.
 
 +
 Die ausgewählten Richtlinien werden in der Spalte Richtlinie im Abschnitt „Zeitpläne für ausgewählte Richtlinien konfigurieren“ aufgeführt.
 
-.. Klicken Sie im Abschnitt Zeitpläne für ausgewählte Richtlinien konfigurieren auf *image:../media/add_policy_from_resourcegroup.gif[""]* In der Spalte Zeitplan konfigurieren für die Richtlinie, für die Sie den Zeitplan konfigurieren möchten.
+.. Klicken Sie im Abschnitt Configure Schedules for Selected Policies auf * *image:../media/add_policy_from_resourcegroup.gif["Richtlinie aus Ressourcengruppe hinzufügen"]in der Spalte Configure Schedules für die Richtlinie, für die Sie den Zeitplan konfigurieren möchten.
 .. Wenn die Richtlinie mit mehreren Terminplantypen (Frequenzen) verknüpft ist, wählen Sie die Frequenz aus, die Sie konfigurieren möchten.
 .. Konfigurieren Sie den Zeitplan im Dialogfeld Add Schedules for Policy_Name_, indem Sie das Startdatum, das Ablaufdatum und die Häufigkeit angeben und dann auf *Finish* klicken.
 +

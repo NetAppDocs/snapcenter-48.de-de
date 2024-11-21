@@ -1,5 +1,5 @@
 ---
-permalink: protect-sco/task_create_resource_groups_and_attach_policies_for_oracle_databases.html 
+permalink: protect-sco/task_create_resource_groups_and_attaching_policies_for_oracle_databases.html 
 sidebar: sidebar 
 keywords: run as 
 summary: Eine Ressourcengruppe ist ein Container, in dem Sie Ressourcen hinzufügen, die Sie sichern und schützen möchten. Mit einer Ressourcengruppe können Sie alle Daten, die einer bestimmten Anwendung zugeordnet sind, gleichzeitig sichern. 
@@ -20,7 +20,7 @@ Fügen Sie der Ressourcengruppe eine oder mehrere Richtlinien hinzu, um den Typ 
 
 Das folgende Bild veranschaulicht die Beziehung zwischen Ressourcen, Ressourcengruppen und Richtlinien für Datenbanken:
 
-image::../media/sco_resourcegroup_policy.gif[sco-Ressourcengruppenrichtlinie]
+image::../media/sco_resourcegroup_policy.gif[Richtlinie für Ressourcengruppen]
 
 .Schritte
 . Wählen Sie im linken Navigationsbereich *Ressourcen* und das entsprechende Plug-in aus der Liste aus.
