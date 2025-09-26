@@ -47,27 +47,17 @@ Beispiel: `10.225.81.35 SCServer1`
 +
 Server etc/Host-Einträge werden nicht wiederhergestellt. Sie können sie manuell aus dem DR-Backup-Ordner wiederherstellen.
 
++
+*** Nach der DR-Wiederherstellung wird der Host hinzugefügt, Sie sollten das Plug-in jedoch manuell installieren.
+*** Der Zeitplan für die Repository-Sicherung wird nur wiederhergestellt, wenn Sie das SnapCenter-Plug-in für Windows installieren und NetApp-LUN an die Servermaschine anbinden.
+*** Wenn die DLLs beschädigt sind, können Sie versuchen, den SnapCenter-Server zu reparieren oder die fehlerhafte Installation zu korrigieren.
+*** Wenn NSM- oder Konfigurationsdateien beschädigt sind, können Sie den SnapCenter-Server mit derselben Version deinstallieren und neu installieren.
+*** Wenn die VM beschädigt ist, starten Sie eine andere VM oder einen Computer mit demselben Namen und installieren Sie SnapCenter Server mit derselben Version.
 
 
 
 
 
-NOTE: Für ein F5-Setup wird der Wiederherstellungsvorgang als eigenständiges Programm ausgeführt. Sie sollten eine Reihe von Befehlen ausführen, um das F5 erneut zu erstellen. Siehe, Link: https://kb.netapp.com/Advice_and_Troubleshooting/Data_Protection_and_Security/SnapCenter/How_to_Migrate_SnapCenter_migrate_to_another_Server["So migrieren Sie SnapCenter auf einen anderen Server"^]
-
-
-NOTE: Nach der DR-Wiederherstellung wird der Host hinzugefügt, Sie sollten das Plug-in jedoch manuell installieren.
-
-
-NOTE: Der Zeitplan für die Repository-Sicherung wird nur wiederhergestellt, wenn Sie das SnapCenter-Plug-in für Windows installieren und NetApp-LUN an die Servermaschine anbinden.
-
-
-NOTE: Wenn die DLLs beschädigt sind, können Sie versuchen, den SnapCenter-Server zu reparieren oder die fehlerhafte Installation zu korrigieren.
-
-
-NOTE: Wenn NSM- oder Konfigurationsdateien beschädigt sind, können Sie den SnapCenter-Server mit derselben Version deinstallieren und neu installieren.
-
-
-NOTE: Der Zeitplan für die Repository-Sicherung wird nur wiederhergestellt, wenn Sie das SnapCenter-Plug-in für Windows installieren und NetApp-LUN an die Servermaschine anbinden.
 
 
 
