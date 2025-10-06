@@ -28,13 +28,13 @@ Es gibt folgende Möglichkeiten für die Implementierung von SnapCenter:
 +
 ** Daten auf primären ONTAP FAS oder AFF Systemen, die auf sekundäre ONTAP FAS oder AFF Systeme repliziert werden
 ** Daten auf primären ONTAP Select Systemen
-** Daten auf primären und sekundären ONTAP FAS- oder AFF-Systemen, die auf lokalem StorageGRID-Objekt-Storage gesichert sind (unter Verwendung der Cloud-Backup-Integration NetApp BlueXP)
+** Daten, die sich auf primären und sekundären ONTAP FAS oder AFF -Systemen befinden und mithilfe der NetApp -Backup- und Recovery-Integration im lokalen StorageGRID -Objektspeicher geschützt sind
 
 
 * Lokal in einer Hybrid Cloud zur Sicherung folgender Komponenten:
 +
 ** Daten auf primären ONTAP FAS oder AFF Systemen, die auf Cloud Volumes ONTAP repliziert werden
-** Daten auf primären und sekundären ONTAP FAS oder AFF Systemen, die auf Objekt- und Archiv-Storage in der Cloud gesichert sind (unter Verwendung der NetApp BlueXP Cloud Backup Integration)
+** Daten, die sich auf primären und sekundären ONTAP FAS oder AFF -Systemen befinden und mithilfe der NetApp Backup- und Recovery-Integration in Objekt- und Archivspeicher in der Cloud geschützt sind
 
 
 * In einer Public Cloud zur Sicherung folgender Komponenten:
