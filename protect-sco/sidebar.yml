@@ -73,7 +73,7 @@ entries:
   - title: Backup-Richtlinien erstellen
     url: "/protect-sco/task_create_backup_policies_for_oracle_database.html"
   - title: Erstellen von Ressourcengruppen
-    url: "/protect-sco/task_create_resource_groups_and_attach_policies_for_oracle_databases.html"
+    url: "/protect-sco/task_create_resource_groups_and_attaching_policies_for_oracle_databases.html"
   - title: Oracle-Ressourcen sichern
     url: "/protect-sco/task_back_up_oracle_resources.html"
   - title: Sichern von Ressourcengruppen
